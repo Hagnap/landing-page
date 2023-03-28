@@ -2,11 +2,15 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+/* HTML Elements */
+
 body {
     margin: 0px;
     padding: 0px;
 }
 
+
+/* Classes */
 .header {
     padding: 0px 128px;
 
@@ -14,7 +18,7 @@ body {
     color: #F9FAF8;
 
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -35,5 +39,11 @@ body {
 }
 
 .section-one {
-    
+    padding: 0px 128px;
+
+    background-color: #1F2937;
+    color: #F9FAF8;
+
+    display: flex;
+    justify-content: space-between;
 }
