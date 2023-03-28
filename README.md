@@ -6,6 +6,9 @@ fun CSS-library that I have been enjoying learning as it is super helpful.
 
 Just a heads up, the "Sign Up" buttons do not do anything. They are there just for the looks.
 
+## Link
+https://jhagg26.github.io/odin-landing-page/
+
 ## Tech Stack
 HTML
 
