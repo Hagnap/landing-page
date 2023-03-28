@@ -20,7 +20,7 @@ Ubuntu
     online for this sadly but it was a learning experience none the less and I am happy with the outcome.
     
  * Spacing/Padding everything so it lines up 
-  - To ensure everything was lined up properly I ensured every section had a padding on the side, 256pixels to be exact. So I had to hardcode this 
-    into every section (header, section one, section two, section three, section four, and the footer) and it works but I feel like there's a more optimal
-    way to do this. I tried to do it in the body but it would move the background color as well, which looking back makes sense but in the moment it was 
-    odd. I am happy to receive to any advice on this if anyone has any. 
+    - To ensure everything was lined up properly I ensured every section had a padding on the side, 256pixels to be exact. So I had to hardcode this 
+      into every section (header, section one, section two, section three, section four, and the footer) and it works but I feel like there's a more optimal
+      way to do this. I tried to do it in the body but it would move the background color as well, which looking back makes sense but in the moment it was 
+      odd. I am happy to receive to any advice on this if anyone has any. 
