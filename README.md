@@ -28,3 +28,8 @@ Ubuntu
       into every section (header, section one, section two, section three, section four, and the footer) and it works but I feel like there's a more optimal
       way to do this. I tried to do it in the body but it would move the background color as well, which looking back makes sense but in the moment it was 
       odd. I am happy to receive to any advice on this if anyone has any. 
+
+  * Thinking of things to document
+    - When it came to writing this I did struggle to come up with things to document. I know I needed the essentials (or atleast what I know to be the
+      essentials but I could lack some stuff others deem essential) so I described the project, what I used, and issues I faced. However, I struggle when it
+      comes to adding more. So I am also open to advice on this as this is something I feel like is something that stems from a lack of experience.
