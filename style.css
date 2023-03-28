@@ -87,6 +87,8 @@ button:hover {
 
 .section-two .skits {
     display: flex;
+    flex-wrap: wrap;
+    min-width: 128px;
 }
 
 .section-two .skits .skit {
