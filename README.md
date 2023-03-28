@@ -4,6 +4,8 @@
 This project was made as a part of the Odin Project. It is a website that showcases some of my favorite skits from the show "I Think You Should Leave with Tim Robinson". I chose this show because it was one of my favorites and it made the project more interesting. However, the content isn't the most *appropiate* but that's the nature of the show, it's a comedy sketch show. This project was a way to demonstrate and reinforce my HTML, CSS, and Flexbox skills. Flexbox is a 
 fun CSS-library that I have been enjoying learning as it is super helpful.
 
+Just a heads up, the "Sign Up" buttons do not do anything. They are there just for the looks.
+
 ## Tech Stack
 HTML
 
