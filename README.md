@@ -6,9 +6,13 @@ fun CSS-library that I have been enjoying learning as it is super helpful.
 
 ## Tech Stack
 HTML
+
 CSS
+
 Flexbox
+
 VS Code
+
 Ubuntu
 
 ## Challenges Faced
