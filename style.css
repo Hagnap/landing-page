@@ -25,7 +25,7 @@ button:hover {
 
 /* Classes */
 .header {
-    padding: 0px 128px; /* Padding code flag */
+    padding: 0px 256px; /* Padding code flag */
     padding-top: 8px;
 
     background-color: #1F2937;
@@ -53,7 +53,7 @@ button:hover {
 }
 
 .section-one {
-    padding: 64px 128px; /* Padding code flag */
+    padding: 64px 256px; /* Padding code flag */
 
     background-color: #1F2937;
     color: #F9FAF8;
@@ -124,7 +124,7 @@ button:hover {
 }
 
 .section-three {    
-    padding: 64px 128px; /* Padding code flag */
+    padding: 64px 256px; /* Padding code flag */
 
     background-color: #E5E7EB;
     color: #1F2937;
@@ -153,7 +153,7 @@ button:hover {
 }
 
 .section-four {
-    padding: 0px 128px; /* Padding code flag */
+    padding: 0px 256px; /* Padding code flag */
 
     display: flex;
     justify-content: center;
@@ -189,7 +189,7 @@ button:hover {
 }
 
 .footer {
-    padding: 0px 128px; /* Padding code flag */
+    padding: 0px 256px; /* Padding code flag */
 
     background-color: #1F2937;
     color: #E5E7EB;
