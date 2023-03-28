@@ -13,6 +13,7 @@ body {
 /* Classes */
 .header {
     padding: 0px 128px;
+    padding-bottom: 64px;
 
     background-color: #1F2937;
     color: #F9FAF8;
